@@ -37,6 +37,7 @@ My work spans nanopore long-read sequencing, short-read illumina sequencing pipe
 **Epigenomics:** DNA methylation (mCpG, 6mA), ChromHMM chromatin state modeling, nucleosome positioning  
 **Tools:** bowtie2, samtools, picard, bedtools, HOMER, MEME-suite, Snakemake  
 **Programming:** Python (pandas, scipy, scikit-learn, pysam, statsmodels, Streamlit), R (TCGAbiolinks), Bash  
+**HPC:** NIH Biowulf cluster, SLURM job scheduling (sbatch, job arrays)
 **Statistical methods:** Beta-binomial differential methylation
 
 ---
