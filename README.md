@@ -1,16 +1,53 @@
-## Hi there 👋
+# Zhuwei Xu | Computational Epigenomics
 
-<!--
-**zhuweix/zhuweix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral Fellow · David Clark Lab · NIH/NICHD · Bethesda, MD
 
-Here are some ideas to get you started:
+I develop computational methods and software tools for studying chromatin organization, DNA methylation, and nucleosome dynamics. 
+My work spans nanopore long-read sequencing, short-read illumina sequencing pipelines, and custom statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 Research Software
+
+### Nucleosome Dynamics & Chromatin Accessibility
+| Repository | Description | Paper |
+|---|---|---|
+| [SinePhasingAnalyzer](https://github.com/zhuweix/SinePhasingAnalyzer) | Decaying sine-wave model for nucleosome phasing analysis from BigWig data | [*Science Advances* 2025](https://doi.org/10.1126/sciadv.adw7108) |
+| [SinePhasingAnalyzerOnline](https://github.com/zhuweix/SinePhasingAnalyzerOnline) | Streamlit web app for interactive phasing visualization | — |
+| [snakemakeMethylFrac](https://github.com/zhuweix/snakemakeMethylFrac) | Snakemake pipeline: FASTQ → processed BigWig for genome accessibility | [*Nature Communications* 2025](https://doi.org/10.1038/s41467-025-59994-7) |
+| [methylFracAnalyzer](https://github.com/zhuweix/methylFracAnalyzer) | Downstream analysis of methylated fraction: ChromHMM states, centromeric elements, phasing relative to TSS/CTCF | [*Nature Communications* 2025](https://doi.org/10.1038/s41467-025-59994-7) |
+
+### 6mA Detection in PacBio Long Reads
+| Repository | Description |
+|---|---|
+| [MethyladenosineFinder](https://github.com/zhuweix/MethyladenosineFinder) | Single-read 6mA detection pipeline for PacBio sequencing data |
+| [AdenineFootprinter](https://github.com/zhuweix/AdenineFootprinter) | Chromatin footprinting via adenine methylation patterns |
+
+### Yeast Chromatin & Heterochromatin
+| Repository | Description |
+|---|---|
+| [Yeast_Sir_2025](https://github.com/zhuweix/Yeast_Sir_2025) | Genome accessibility analysis in *S. cerevisiae* SIR mutants |
+
+---
+
+## 🛠️ Core Technical Skills
+
+**Long-read sequencing:** Nanopore (dorado, modkit, pysam), PacBio SMRT  
+**Short-read NGS:** ChIP-seq (ENCODE Cromwell pipeline), ATAC-seq, MNase-seq, RNA-seq  
+**Epigenomics:** DNA methylation (mCpG, 6mA), ChromHMM chromatin state modeling, nucleosome positioning  
+**Tools:** bowtie2, samtools, picard, bedtools, HOMER, MEME-suite, Snakemake  
+**Programming:** Python (pandas, scipy, sklearn, pysam, statsmodels, Streamlit), R (TCGAbiolinks), Bash  
+**Statistical methods:** Beta-binomial differential methylation
+
+---
+
+## 📄 Selected Publications
+
+- **Xu Z**, et al. The ISW1 and CHD1 chromatin remodelers suppress global nucleosome dynamics in living yeast cells. *Science Advances* 11, eadw7108 (2025). [DOI](https://doi.org/10.1126/sciadv.adw7108)
+- Prajapati HK\*, **Xu Z**\*, et al. Nucleosome dynamics render heterochromatin accessible in living human cells. *Nature Communications* 16, 4577 (2025). [DOI](https://doi.org/10.1038/s41467-025-59994-7)
+
+---
+
+## 📬 Contact
+
+[Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=NgS5kcAAAAAJ&hl)) · zhuweix8@gmail.com
