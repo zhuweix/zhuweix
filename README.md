@@ -45,7 +45,7 @@ My work spans nanopore long-read sequencing, short-read illumina sequencing pipe
 
 - **Xu Z**, et al. The ISW1 and CHD1 chromatin remodelers suppress global nucleosome dynamics in living yeast cells. *Science Advances* 11, eadw7108 (2025). [DOI](https://doi.org/10.1126/sciadv.adw7108)
 - Prajapati HK\*, **Xu Z**\*, et al. Nucleosome dynamics render heterochromatin accessible in living human cells. *Nature Communications* 16, 4577 (2025). [DOI](https://doi.org/10.1038/s41467-025-59994-7)
-- Dennis AF, **Xu Z**, Clark DJ. Examining chromatin heterogeneity through PacBio long-read sequencing of M.EcoGII methylated genomes: an m6A detection efficiency and calling bias correcting pipeline. *Nucleic Acids Research* 52, e45 (2024). [DOI](https://doi.org/10.1093/nar/gkae288)
+- Dennis AF\*,**Xu Z**\*, Clark DJ. Examining chromatin heterogeneity through PacBio long-read sequencing of M.EcoGII methylated genomes: an m6A detection efficiency and calling bias correcting pipeline. *Nucleic Acids Research* 52, e45 (2024). [DOI](https://doi.org/10.1093/nar/gkae288)
 
 ---
 
