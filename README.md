@@ -13,7 +13,7 @@ My work spans nanopore long-read sequencing, short-read illumina sequencing pipe
 | Repository | Description | Paper |
 |---|---|---|
 | [SinePhasingAnalyzer](https://github.com/zhuweix/SinePhasingAnalyzer) | Decaying sine-wave model for nucleosome phasing analysis from BigWig data | [*Science Advances* 2025](https://doi.org/10.1126/sciadv.adw7108) |
-| [SinePhasingAnalyzerOnline](https://github.com/zhuweix/SinePhasingAnalyzerOnline) | Streamlit web app for interactive phasing visualization | — |
+| [SinePhasingAnalyzerOnline](https://github.com/zhuweix/SinePhasingAnalyzerOnline) | Streamlit web app for interactive phasing visualization |[*Science Advances* 2025](https://doi.org/10.1126/sciadv.adw7108) |
 | [snakemakeMethylFrac](https://github.com/zhuweix/snakemakeMethylFrac) | Snakemake pipeline: FASTQ → processed BigWig for genome accessibility | [*Nature Communications* 2025](https://doi.org/10.1038/s41467-025-59994-7) |
 | [methylFracAnalyzer](https://github.com/zhuweix/methylFracAnalyzer) | Downstream analysis of methylated fraction: ChromHMM states, centromeric elements, phasing relative to TSS/CTCF | [*Nature Communications* 2025](https://doi.org/10.1038/s41467-025-59994-7) |
 
