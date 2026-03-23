@@ -36,7 +36,7 @@ My work spans nanopore long-read sequencing, short-read illumina sequencing pipe
 **Short-read NGS:** ChIP-seq (ENCODE Cromwell pipeline), ATAC-seq, MNase-seq, RNA-seq  
 **Epigenomics:** DNA methylation (mCpG, 6mA), ChromHMM chromatin state modeling, nucleosome positioning  
 **Tools:** bowtie2, samtools, picard, bedtools, HOMER, MEME-suite, Snakemake  
-**Programming:** Python (pandas, scipy, sklearn, pysam, statsmodels, Streamlit), R (TCGAbiolinks), Bash  
+**Programming:** Python (pandas, scipy, scikit-learn, pysam, statsmodels, Streamlit), R (TCGAbiolinks), Bash  
 **Statistical methods:** Beta-binomial differential methylation
 
 ---
