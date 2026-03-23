@@ -38,7 +38,7 @@ My work spans nanopore long-read sequencing, short-read illumina sequencing pipe
 **Tools:** bowtie2, samtools, picard, bedtools, HOMER, MEME-suite, Snakemake  
 **Programming:** Python (pandas, scipy, scikit-learn, pysam, statsmodels, Streamlit), R (TCGAbiolinks), Bash  
 **HPC:** NIH Biowulf cluster, SLURM job scheduling (sbatch, job arrays)
-**Statistical methods:** Beta-binomial differential methylation
+**Statistical methods:** Beta-binomial differential methylation, decaying sine-wave modeling for nucleosome phasing (scipy optimization)
 
 ---
 
