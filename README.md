@@ -18,10 +18,10 @@ My work spans nanopore long-read sequencing, short-read illumina sequencing pipe
 | [methylFracAnalyzer](https://github.com/zhuweix/methylFracAnalyzer) | Downstream analysis of methylated fraction: ChromHMM states, centromeric elements, phasing relative to TSS/CTCF | [*Nature Communications* 2025](https://doi.org/10.1038/s41467-025-59994-7) |
 
 ### 6mA Detection in PacBio Long Reads
-| Repository | Description |
-|---|---|
-| [MethyladenosineFinder](https://github.com/zhuweix/MethyladenosineFinder) | Single-read 6mA detection pipeline for PacBio sequencing data |
-| [AdenineFootprinter](https://github.com/zhuweix/AdenineFootprinter) | Chromatin footprinting via adenine methylation patterns |
+| Repository | Description | Paper |
+|---|---|---|
+| [MethyladenosineFinder](https://github.com/zhuweix/MethyladenosineFinder) | Detection efficiency and calling bias correction pipeline for single-read m6A in M.EcoGII-methylated genomes | [*Nucleic Acids Research* 2024](https://doi.org/10.1093/nar/gkae288) |
+| [AdenineFootprinter](https://github.com/zhuweix/AdenineFootprinter) | Chromatin footprinting via adenine methylation patterns | [*Nucleic Acids Research* 2024](https://doi.org/10.1093/nar/gkae288) |
 
 ### Yeast Chromatin & Heterochromatin
 | Repository | Description |
@@ -45,6 +45,7 @@ My work spans nanopore long-read sequencing, short-read illumina sequencing pipe
 
 - **Xu Z**, et al. The ISW1 and CHD1 chromatin remodelers suppress global nucleosome dynamics in living yeast cells. *Science Advances* 11, eadw7108 (2025). [DOI](https://doi.org/10.1126/sciadv.adw7108)
 - Prajapati HK\*, **Xu Z**\*, et al. Nucleosome dynamics render heterochromatin accessible in living human cells. *Nature Communications* 16, 4577 (2025). [DOI](https://doi.org/10.1038/s41467-025-59994-7)
+- Dennis AF, **Xu Z**, Clark DJ. Examining chromatin heterogeneity through PacBio long-read sequencing of M.EcoGII methylated genomes: an m6A detection efficiency and calling bias correcting pipeline. *Nucleic Acids Research* 52, e45 (2024). [DOI](https://doi.org/10.1093/nar/gkae288)
 
 ---
 
